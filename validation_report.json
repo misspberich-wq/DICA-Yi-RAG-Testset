@@ -1,0 +1,94 @@
+{
+  "items": 200,
+  "text_questions": 140,
+  "image_questions": 60,
+  "unique_images": 44,
+  "missing_images": [],
+  "image_copies_hash_verified": true,
+  "source_json_sha256": "aa4b48b5159be2356972ca6966e5f0ad1534e0b73cba7b62a76880e5f287d706",
+  "json_copy_unchanged": true,
+  "category_modality_counts": [
+    {
+      "category": "上下文",
+      "type": "image",
+      "count": 15
+    },
+    {
+      "category": "上下文",
+      "type": "text",
+      "count": 35
+    },
+    {
+      "category": "出处",
+      "type": "image",
+      "count": 15
+    },
+    {
+      "category": "出处",
+      "type": "text",
+      "count": 35
+    },
+    {
+      "category": "药方",
+      "type": "image",
+      "count": 15
+    },
+    {
+      "category": "药方",
+      "type": "text",
+      "count": 35
+    },
+    {
+      "category": "词义",
+      "type": "image",
+      "count": 15
+    },
+    {
+      "category": "词义",
+      "type": "text",
+      "count": 35
+    }
+  ],
+  "answer_ellipsis_review_ids": [
+    2,
+    7,
+    8,
+    22,
+    51,
+    64
+  ],
+  "summary_metrics_as_supplied": {
+    "药方查询": {
+      "问题数量": 50,
+      "Accuracy": "98%",
+      "Coverage": "96%",
+      "CitationAccuracy": "98%"
+    },
+    "出处查询": {
+      "问题数量": 50,
+      "Accuracy": "97%",
+      "Coverage": "95%",
+      "CitationAccuracy": "97%"
+    },
+    "上下文查找": {
+      "问题数量": 50,
+      "Accuracy": "76%",
+      "Coverage": "73%",
+      "CitationAccuracy": "78%"
+    },
+    "词义解释": {
+      "问题数量": 50,
+      "Accuracy": "98%",
+      "Coverage": "89%",
+      "CitationAccuracy": "98%"
+    },
+    "平均结果": {
+      "问题数量": 200,
+      "Accuracy": "92%",
+      "Coverage": "88%",
+      "CitationAccuracy": "93%"
+    }
+  },
+  "per_item_scores_recomputed": false,
+  "copyright_clearance_verified": false
+}
