@@ -6,7 +6,6 @@
 - `images/`：60道图像题实际引用的44张不同PNG图片。同一图片可对应多道题。
 - `image_manifest.json`：每张图片的相对路径、引用问题编号、文件大小和SHA-256校验值。
 - `validation_report.json`：题量、模态、类别、图片匹配和完整性核验结果。
-- `UPLOAD_GUIDE.md`：上传和邀请导师查看的步骤。
 
 ## 数量与字段
 
